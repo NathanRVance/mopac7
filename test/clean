@@ -1,0 +1,8 @@
+#! /bin/sh
+rm FOR*
+rm .test.out.swp
+mv test.dat testdat
+mv test.out.good testoutgood
+rm *.*
+mv testdat test.dat
+mv testoutgood test.out.good

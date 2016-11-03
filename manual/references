@@ -1,0 +1,199 @@
+%A  M. J. S. Dewar
+%B  J. Mol. Struct.
+%V  100
+%P  41
+%D  1983
+
+%A  M. J. S. Dewar
+%A  R. C. Bingham
+%A  D. H. Lo
+%B  J. Am. Chem. Soc.
+%V  97
+%P  1285
+%D  1975
+
+%A M. J. S. Dewar
+%A W. Thiel
+%B J. Am. Chem. Soc.
+%V 99
+%P 4899
+%D 1977
+
+%A M. J. S. Dewar
+%A E. G. Zoebisch
+%A E. F. Healy
+%A J. J. P. Stewart
+%B J. Am. Chem. Soc.
+%T "AM1: A New General Purpose Quantum Mechanical Molecular
+%V 107
+%P 3902
+%D 1985
+
+%A M. J. S. Dewar
+%A G. P. Ford
+%B J. Am. Chem. Soc.
+%V 99
+%P 1685
+%D 1977
+
+%A M. J. S. Dewar
+%A G. Ford
+%A M. McKee
+%A H. S. Rzepa
+%A Y. Yamaguchi
+%B J. Mol. Struct.
+%V 43
+%P 135
+%D 1978
+
+%A M. J. S. Dewar
+%A G. P. Ford
+%B J. Am. Chem. Soc.
+%V 99
+%P 7822
+%D 1977
+
+%A M. J. S. Dewar
+%A S. B. Brown
+%A G. P. Ford
+%A D. J. Nelson
+%A H. S. Rzepa
+%B J. Am. Chem. Soc.
+%V 100
+%P 7832
+%D 1978
+
+%A M. J. S. Dewar
+%A Y. Yamaguchi
+%A S. H. Suck
+%B Chem. Phys. Lett.
+%V 50
+%P 175,279
+%D 1977
+
+%A M. J. S. Dewar
+%A J. G. Bergman
+%A S. H. Suck
+%A P. K. Weiner
+%B Chem. Phys. Lett
+%V 38
+%P 226
+%D 1976
+
+%A M. J. S. Dewar
+%A Y. Yamaguchi
+%A S. H. Suck
+%B Chem. Phys. Lett.
+%V 59
+%P 541
+%D 1978
+
+%A M. J. S. Dewar
+%A J. J. P. Stewart
+%B Chem. Phys. Lett.
+%V 111
+%P 416
+%D 1984
+
+%A M. J. S. Dewar
+%A C. Doubleday
+%B J. Am. Chem. Soc.
+%V 100
+%P 4935
+%D 1978
+
+%A J. J. P. Stewart
+%B QCPE Bulletin
+%V 455
+
+%A P. L. Cummings
+%A J. E. Gready
+%B J. Comp. Chem.
+%V 10
+%P 939-950
+%D 1989
+%T "Computational Strategies for the Optimization of Equilibrium
+Geometry and Transition-State Structures at the Semiempirical Level
+
+%A M. J. S. Dewar
+%A D. A. Liotard
+%B J. Mol. Struct. (Theochem)
+%V 206
+%P 123-133
+%T An Efficient Procedure for Calculating the Molecular Gradient,
+using SCF-CI Semiempirical Wavefunctions with a Limited Number
+of Configurations
+%D 1990
+
+%A J. Baker
+%B J. Comp. Chem.
+%V 7
+%P 385
+%D 1986
+
+%A B. H. Besler
+%A K. M. Merz, Jr.
+%A P. A. Kollman
+%B J. Comp. Chem.
+%V 11
+%P 431-439
+%D 1990
+
+%A J. J. P. Stewart
+%T Optimization of Parameters for Semi-Empirical Methods I-Method
+%B J. Comp. Chem.
+%V 10
+%P 221
+%D 1989
+
+%A J. J. P. Stewart
+%T Optimization of Parameters for Semi-Empirical Methods II-Applications
+%B J. Comp. Chem.
+%V 10
+%P 221
+%D 1989
+
+%A J. J. P. Stewart
+%T Optimization of Parameters for Semi-Empirical Methods III-Extension of PM3 to Be, Mg, Zn, Ga, Ge, As, Se, Cd, In, Sn, Sb, Te, Hg, Tl, Pb, and Bi
+%B J. Comp. Chem.
+%V 12
+%P 320-341
+$D 1991
+
+%A A. V. Mitin
+%T The Dynamic 'Level Shift' Method for Improving the Convergence
+of the SCF Procedure
+%B J. Comp. Chem.
+%V 9
+%P 107-110
+%D 1988
+
+%A P. Pulay
+%T Convergence Acceleration of Iterative Sequences
+%B Chem. Phys. Lett.
+%V 73
+%P 393
+%D 1980
+
+%A J. J. P. Stewart
+%A P. Csaszar
+%A P. Pulay
+%T Fast Semiempirical Calculations
+%B J. Comp. Chem.
+%V 3
+%P 227
+%D 1982
+
+%A P. G. Perkins
+%A J. J. P. Stewart
+%T A New Rapid Method for Orbital Localization
+%B J. C. S. Faraday (II)
+%V 78
+%P 285-296
+%D 1981
+
+%A Y. Beppu
+%B Computers and Chemistry
+%V 6
+%D 1982
+

@@ -1,0 +1,172 @@
+ *******************************************************************************
+ **                      MOPAC (PUBLIC DOMAIN)                                **
+ *******************************************************************************
+
+                                 AM1 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *          MOPAC:  VERSION  7.00               CALC'D. Wed May 18 15:45:28 1994
+ *   T=      - A TIME OF  3600.0 SECONDS REQUESTED
+ *  DUMP=N   - RESTART FILE WRITTEN EVERY  3600.0 SECONDS
+ *  1SCF     - DO 1 SCF AND THEN STOP 
+ *  AM1      - THE AM1 HAMILTONIAN TO BE USED
+ ***********************************************************************020BY020
+ 1SCF  AM1 PMEP MINMEP PRTMEP
+ Formaldehyde (Cross-section in plane of molecule)
+ Generate a 2-D grid of PMEP potentials for `esplot' to use
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      O       
+      2      C         1.22732  *                                  1
+      3      H         1.11047  *     122.22535  *                 2    1
+      4      H         1.11048  *     122.21586  *  179.99981  *   2    1    3
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM         X         Y         Z
+
+     1         O        0.0000    0.0000    0.0000
+     2         C        1.2273    0.0000    0.0000
+     3         H        1.8195    0.9394    0.0000
+     4         H        1.8193   -0.9395    0.0000
+
+
+     MOLECULAR POINT GROUP   :   C2V 
+  H: (AM1): M.J.S. DEWAR ET AL, J. AM. CHEM. SOC. 107 3902-3909 (1985)          
+  C: (AM1): M.J.S. DEWAR ET AL, J. AM. CHEM. SOC. 107 3902-3909 (1985)          
+  O: (AM1): M.J.S. DEWAR ET AL, J. AM. CHEM. SOC. 107 3902-3909 (1985)          
+
+
+          RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS =  6
+
+
+            INTERATOMIC DISTANCES
+0
+                  O  1       C  2       H  3       H  4
+ ------------------------------------------------------
+     O    1   0.000000
+     C    2   1.227324   0.000000
+     H    3   2.047686   1.110473   0.000000
+     H    4   2.047602   1.110484   1.878932   0.000000
+
+ -------------------------------------------------------------------------------
+ 1SCF  AM1 PMEP MINMEP PRTMEP
+ Formaldehyde (Cross-section in plane of molecule)
+ Generate a 2-D grid of PMEP potentials for `esplot' to use
+
+
+     1SCF WAS SPECIFIED, SO BFGS WAS NOT USED                 
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                                AM1    CALCULATION
+                                                       VERSION  7.00
+                                                       Wed May 18 15:45:30 1994
+
+
+
+
+          FINAL HEAT OF FORMATION =        -31.48947 KCAL
+
+
+          TOTAL ENERGY            =       -475.58530 EV
+          ELECTRONIC ENERGY       =       -864.24688 EV
+          CORE-CORE REPULSION     =        388.66158 EV
+
+          IONIZATION POTENTIAL    =         10.78282
+          NO. OF FILLED LEVELS    =          6
+          MOLECULAR WEIGHT        =     30.026
+
+
+          SCF CALCULATIONS  =                1
+          COMPUTATION TIME =   0.150 SECONDS
+
+
+
+
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      O       
+      2      C         1.22732  *                                  1
+      3      H         1.11047  *     122.22535  *                 2    1
+      4      H         1.11048  *     122.21586  *  179.99981  *   2    1    3
+
+
+            INTERATOMIC DISTANCES
+0
+                  O  1       C  2       H  3       H  4
+ ------------------------------------------------------
+     O    1   0.000000
+     C    2   1.227324   0.000000
+     H    3   2.047686   1.110473   0.000000
+     H    4   2.047602   1.110484   1.878932   0.000000
+
+
+      MOLECULAR POINT GROUP   :   C2V 
+
+
+                  EIGENVALUES
+
+ -39.06272 -25.06097 -17.13829 -16.25906 -14.54361 -10.78282   0.79291   3.16606
+   3.99668   6.06561
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+         ATOM NO.   TYPE          CHARGE        ATOM  ELECTRON DENSITY
+           1          O          -0.2759          6.2759
+           2          C           0.1383          3.8617
+           3          H           0.0688          0.9312
+           4          H           0.0688          0.9312
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     2.018     0.000     0.000     2.018
+ HYBRID         0.300     0.000     0.000     0.300
+ SUM            2.317     0.000     0.000     2.317
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM               X         Y         Z
+
+     1         O                  0.0000    0.0000    0.0000
+     2         C                  1.2273    0.0000    0.0000
+     3         H                  1.8195    0.9394    0.0000
+     4         H                  1.8193   -0.9395    0.0000
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+   1.90954   1.15554   1.91126   1.29956   1.28150   0.90938   0.97034   0.70044
+   0.93121   0.93123
+
+
+
+             MOLCULAR ELECTROSTATIC POTENTIAL
+
+ REFERENCES  B.WANG AND G.P.FORD J.COMPT.CHEM. IN PRESS
+             G.P.FORD AND B.WANG J.COMPT.CHEM. 14(1993)1101
+
+ GRIDS NX*NY= 67 * 59
+ => CONTOUR FILE IS PRINTED ON CHANNEL 7
+ TOTAL NUMBER OF THE POINTS CALCULATED     3703
+
+ MINIMA IN THE SPECIFIED PLANE
+     ATOM       UMIN      DISTANCE          XYZ COORDINATE
+               KCAL/MOL     ANG              IN MOL COORD
+     1   O      -52.4      1.22       -0.990    0.720    0.000
+
+ TIME TO CALCULATE MEP     2.95 SECONDS
+
+
+
+ TOTAL CPU TIME:             3.15 SECONDS
+
+ == MOPAC DONE ==

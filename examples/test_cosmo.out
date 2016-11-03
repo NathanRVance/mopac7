@@ -1,0 +1,184 @@
+ *******************************************************************************
+ **                      MOPAC (PUBLIC DOMAIN)                                **
+ *******************************************************************************
+
+                                 AM1 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *          MOPAC:  VERSION  7.00               CALC'D. Fri Apr 22 10:19:56 1994
+ *  DEBUG    - DEBUG OPTION TURNED ON
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM =  1
+ *
+ *
+ *
+ *  GRADIENTS- ALL GRADIENTS TO BE PRINTED
+ *   T=      - A TIME OF  3600.0 SECONDS REQUESTED
+ *  DUMP=N   - RESTART FILE WRITTEN EVERY  3600.0 SECONDS
+ *  1SCF     - DO 1 SCF AND THEN STOP 
+ *  AM1      - THE AM1 HAMILTONIAN TO BE USED
+ *  DEBUG KEYWORDS USED:   NSPA=60 EPS=78.4
+ ***********************************************************************030BY030
+     DEBUG NSPA=60 GRADIENTS 1SCF  EPS=78.4 AM1 CHARGE=1
+ Ammonia (solution phase geometry)
+ Heat of Formation should be 60.06903 kcal/mol and the gradient should be small.
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      H       
+      2      N         1.01578  *                                  1
+      3      H         1.01578  *     109.47122  *                 2    1
+      4      H         1.01578  *     109.47122  * -120.00000  *   2    1    3
+      5      H         1.01578  *     109.47122  *  120.00000  *   2    1    3
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM         X         Y         Z
+
+     1         H        0.0000    0.0000    0.0000
+     2         N        1.0158    0.0000    0.0000
+     3         H        1.3544    0.9577    0.0000
+     4         H        1.3544   -0.4788   -0.8294
+     5         H        1.3544   -0.4788    0.8294
+
+
+     MOLECULAR POINT GROUP   :   TD  
+  H: (AM1): M.J.S. DEWAR ET AL, J. AM. CHEM. SOC. 107 3902-3909 (1985)          
+  N: (AM1): M.J.S. DEWAR ET AL, J. AM. CHEM. SOC. 107 3902-3909 (1985)          
+
+
+          RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS =  4
+
+
+            INTERATOMIC DISTANCES
+0
+                  H  1       N  2       H  3       H  4       H  5
+ ------------------------------------------------------------------
+     H    1   0.000000
+     N    2   1.015785   0.000000
+     H    3   1.658769   1.015785   0.000000
+     H    4   1.658769   1.015785   1.658769   0.000000
+     H    5   1.658769   1.015785   1.658769   1.658769   0.000000
+
+ -------------------------------------------------------------------------------
+     DEBUG NSPA=60 GRADIENTS 1SCF  EPS=78.4 AM1 CHARGE=1
+ Ammonia (solution phase geometry)
+ Heat of Formation should be 60.06903 kcal/mol and the gradient should be small.
+
+
+     1SCF WAS SPECIFIED, SO BFGS WAS NOT USED                 
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                                AM1    CALCULATION
+                                                       VERSION  7.00
+                                                       Fri Apr 22 10:20:05 1994
+
+
+
+
+          FINAL HEAT OF FORMATION =         60.06903 KCAL
+
+
+          TOTAL ENERGY            =       -259.33111 EV
+          ELECTRONIC ENERGY       =       -194.96485 EV
+          CORE-CORE REPULSION     =        -64.36626 EV
+
+          GRADIENT NORM           =          0.33888
+          IONIZATION POTENTIAL    =         17.00093
+          NO. OF FILLED LEVELS    =          4
+          MOLECULAR WEIGHT        =     18.038
+
+
+          SCF CALCULATIONS  =                2
+          COMPUTATION TIME =   8.883 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+   PARAMETER     ATOM    TYPE            VALUE       GRADIENT
+      1          2  N    BOND            1.015785     0.163619  KCAL/ANGSTROM
+      2          3  H    BOND            1.015785    -0.027038  KCAL/ANGSTROM
+      3          3  H    ANGLE         109.471221    -0.167257  KCAL/RADIAN  
+      4          4  H    BOND            1.015785     0.169896  KCAL/ANGSTROM
+      5          4  H    ANGLE         109.471221    -0.029970  KCAL/RADIAN  
+      6          4  H    DIHEDRAL     -120.000000    -0.071723  KCAL/RADIAN  
+      7          5  H    BOND            1.015785     0.086298  KCAL/ANGSTROM
+      8          5  H    ANGLE         109.471221    -0.105478  KCAL/RADIAN  
+      9          5  H    DIHEDRAL      120.000000    -0.076709  KCAL/RADIAN  
+
+
+
+
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      H       
+      2      N         1.01578  *                                  1
+      3      H         1.01578  *     109.47122  *                 2    1
+      4      H         1.01578  *     109.47122  * -120.00000  *   2    1    3
+      5      H         1.01578  *     109.47122  *  120.00000  *   2    1    3
+
+
+            INTERATOMIC DISTANCES
+0
+                  H  1       N  2       H  3       H  4       H  5
+ ------------------------------------------------------------------
+     H    1   0.000000
+     N    2   1.015785   0.000000
+     H    3   1.658769   1.015785   0.000000
+     H    4   1.658769   1.015785   1.658769   0.000000
+     H    5   1.658769   1.015785   1.658769   1.658769   0.000000
+
+
+      MOLECULAR POINT GROUP   :   TD  
+
+
+                  EIGENVALUES
+
+ -35.55322 -17.00656 -17.00463 -17.00093   3.11380   5.18068   5.18270   5.18749
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+         ATOM NO.   TYPE          CHARGE        ATOM  ELECTRON DENSITY
+           1          H           0.2676          0.7324
+           2          N          -0.0715          5.0715
+           3          H           0.2682          0.7318
+           4          H           0.2678          0.7322
+           5          H           0.2679          0.7321
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     0.002     0.001     0.000     0.003
+ HYBRID         0.000     0.000     0.000     0.000
+ SUM            0.002     0.001     0.000     0.002
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM               X         Y         Z
+
+     1         H                 -1.0158    0.0000    0.0000
+     2         N                  0.0000    0.0000    0.0000
+     3         H                  0.3386    0.9577    0.0000
+     4         H                  0.3386   -0.4788   -0.8294
+     5         H                  0.3386   -0.4788    0.8294
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+   0.73242   1.40671   1.22115   1.22197   1.22170   0.73180   0.73216   0.73208
+
+
+
+ TOTAL CPU TIME:             8.97 SECONDS
+
+ == MOPAC DONE ==

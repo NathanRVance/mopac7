@@ -1,0 +1,296 @@
+ *******************************************************************************
+ **                      MOPAC (PUBLIC DOMAIN)                                **
+ *******************************************************************************
+
+                                MNDO CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *          MOPAC:  VERSION  7.00               CALC'D. Fri Apr 22 10:28:53 1994
+ *   T=      - A TIME OF  3600.0 SECONDS REQUESTED
+ *  DUMP=N   - RESTART FILE WRITTEN EVERY  3600.0 SECONDS
+ *  TOM      - MIERTUS-SCROCCO-TOMASI SOLVATION MODEL
+ ***********************************************************************030BY030
+ MNDO TOM
+ water SCRF deorthogonal computation
+  HEAT OF FORMATION SHOULD BE -60.938 KCAL/MOL
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      O       
+      2      H         0.94345                                     1
+      3      H         0.94345        106.78971                    1    2
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM         X         Y         Z
+
+     1         O        0.0000    0.0000    0.0000
+     2         H        0.9434    0.0000    0.0000
+     3         H       -0.2725    0.9032    0.0000
+
+
+     MOLECULAR POINT GROUP   :   C2V 
+  H: (MNDO):  M.J.S. DEWAR, W. THIEL, J. AM. CHEM. SOC., 99, 4899, (1977)       
+  O: (MNDO):  M.J.S. DEWAR, W. THIEL, J. AM. CHEM. SOC., 99, 4899, (1977)       
+
+
+          RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS =  4
+
+
+            INTERATOMIC DISTANCES
+0
+                  O  1       H  2       H  3
+ ------------------------------------------
+     O    1   0.000000
+     H    2   0.943446   0.000000
+     H    3   0.943446   1.514729   0.000000
+
+ -------------------------------------------------------------------------------
+ MNDO TOM
+ water SCRF deorthogonal computation
+  HEAT OF FORMATION SHOULD BE -60.938 KCAL/MOL
+
+
+     GRADIENTS WERE INITIALLY ACCEPTABLY SMALL                
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                               MNDO    CALCULATION
+                                                       VERSION  7.00
+                                                       Fri Apr 22 10:28:53 1994
+
+
+
+
+          FINAL HEAT OF FORMATION =        -60.93813 KCAL
+
+
+          TOTAL ENERGY            =       -351.42483 EV
+          ELECTRONIC ENERGY       =       -500.43426 EV
+          CORE-CORE REPULSION     =        149.00943 EV
+
+          IONIZATION POTENTIAL    =         12.19084
+          NO. OF FILLED LEVELS    =          4
+          MOLECULAR WEIGHT        =     18.015
+
+
+          SCF CALCULATIONS  =                2
+          COMPUTATION TIME =   0.083 SECONDS
+
+
+
+
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      O       
+      2      H         0.94345                                     1
+      3      H         0.94345        106.78971                    1    2
+
+
+            INTERATOMIC DISTANCES
+0
+                  O  1       H  2       H  3
+ ------------------------------------------
+     O    1   0.000000
+     H    2   0.943446   0.000000
+     H    3   0.943446   1.514729   0.000000
+
+
+      MOLECULAR POINT GROUP   :   C2V 
+
+
+                  EIGENVALUES
+
+ -40.02992 -19.10790 -14.47051 -12.19084   5.44004   6.72244
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+         ATOM NO.   TYPE          CHARGE        ATOM  ELECTRON DENSITY
+           1          O          -0.3256          6.3256
+           2          H           0.1628          0.8372
+           3          H           0.1628          0.8372
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     0.525     0.706     0.000     0.880
+ HYBRID         0.539     0.725     0.000     0.903
+ SUM            1.063     1.431     0.000     1.783
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM               X         Y         Z
+
+     1         O                  0.0000    0.0000    0.0000
+     2         H                  0.9434    0.0000    0.0000
+     3         H                 -0.2725    0.9032    0.0000
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+   1.81325   1.21226   1.30005   2.00000   0.83722   0.83722
+
+
+1    ****** MODELLO SOLVENTE PISA ******
+
+ * CARATTERISTICHE DELLA CAVITA *
+
+
+
+  NUMERO TOTALE DI SFERE    3
+
+  CENTRI E RAGGI :
+
+  SFERA    CENTRO  (X,Y,Z) (ANG.)     RAGGIO (ANG.)  AREA(ANG.*ANG.)
+    1     0.000     0.000     0.000     1.610            28.264
+    2     0.943     0.000     0.000     0.920             2.701
+    3    -0.273     0.903     0.000     0.920             2.694
+
+
+
+ PARAMETRI POLYEDRA: OMEGA=   0.698 RD=   1.500 RET=   0.200 FRO=   0.700 NDIV=    5
+
+
+ NUMERO TOTALE DI TESSERE      104
+
+ SUPERFICE    33.65976(ANG.**2)     VOLUME     18.10459(ANG.**3)
+
+
+ VAN DER WAALS OPTIMIZED LINEAR RELATION:     -2.18299 KCAL/MOL
+ VAN DER WAALS FREE-ENERGY (SURFACE):     -2.61378 KCAL/MOL
+ VAN DER WAALS FREE-ENERGY (VOLUME):      -2.62073 KCAL/MOL
+
+
+
+ PIEROTTI: FREE ENERGY OF CAVITATION  4.26925KCAL/MOLE     THERMAL EXPANSION COEF.=      0.000260
+           CAVITATION EN (ENTHALPY)  0.67876 KCAL/MOLE     NUMERAL DENSITY=              0.033330
+                                                            SOLVENT MOLECULE DIAMETER     2.770000
+                                                            CAVITY DIAMETER               3.273260
+
+
+ SINANOGLU: CAVITATION FREE ENERGY   4.16094KCAL/MOLE     MICROSCOP. CAVITY FACTOR       1.277000
+            CAVITATION EN.(ENTHALPY)   6.67964 KCAL/MOLE     SURFACE TENSION=             71.690000
+                                                            SURFACE TENSION DERIVATE     0.657000
+                                                            ABSOLUTE TEMPERATURE             298.150000
+          **************************************************
+
+
+ -------------------------------------------------------------------------------
+ MNDO TOM
+ water SCRF deorthogonal computation
+  HEAT OF FORMATION SHOULD BE -60.938 KCAL/MOL
+
+
+     GRADIENTS WERE INITIALLY ACCEPTABLY SMALL                
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                               MNDO    CALCULATION
+                                                       VERSION  7.00
+                                                       Fri Apr 22 10:29:30 1994
+
+
+
+
+          FINAL HEAT OF FORMATION =        -79.81775 KCAL
+
+
+          TOTAL ENERGY            =       -352.24351 EV
+          ELECTRONIC ENERGY       =       -499.94186 EV
+          CORE-CORE REPULSION     =        147.69835 EV
+
+          IONIZATION POTENTIAL    =         12.08429
+          NO. OF FILLED LEVELS    =          4
+          MOLECULAR WEIGHT        =     18.015
+
+
+          SCF CALCULATIONS  =                8
+          COMPUTATION TIME =  22.267 SECONDS
+
+          MIERTUS-SCROCCO-TOMASI SOLVATION MODEL
+
+          SCRF ITERATION    =   4
+          SOLUTE ENERGY     =     -352.243512 EV
+          DELTA ENERGY      =      -18.879619 Kcal/mol
+          FREE ENERGY       =     -351.802115 EV
+          DELTA FREE ENERGY =       -8.700559 Kcal/mol
+          SOLUTE-SOLVENT E  =       -0.882794 EV
+          ____NUCLEI-SOLVENT=       -1.311086 EV
+          __ELECTRON-SOLVENT=        0.428292 EV
+
+          *********************
+          *** FINAL RESULTS ***
+          *********************
+          DELTA FREE ENERGY =       -8.700559 Kcal/mol
+          FREE E CAVITATION =        4.269251 Kcal/mol
+          V. der W. FREE E  =       -2.182993 Kcal/mol
+          VdW F E (TOMASI)  =       -2.613783 Kcal/mol
+          SOLVATION FREE E  =       -7.206300 Kcal/mol
+
+
+
+
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      O       
+      2      H         0.94345                                     1
+      3      H         0.94345        106.78971                    1    2
+
+
+            INTERATOMIC DISTANCES
+0
+                  O  1       H  2       H  3
+ ------------------------------------------
+     O    1   0.000000
+     H    2   0.943446   0.000000
+     H    3   0.943446   1.514729   0.000000
+Error opening SYBYL MOPAC output
+
+
+      MOLECULAR POINT GROUP   :   C2V 
+
+
+                  EIGENVALUES
+
+ -39.61061 -18.52131 -14.36756 -12.08429   6.34949   7.47030
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+         ATOM NO.   TYPE          CHARGE        ATOM  ELECTRON DENSITY
+           1          O          -0.4412          6.4412
+           2          H           0.2208          0.7792
+           3          H           0.2204          0.7796
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     0.712     0.956     0.000     1.192
+ HYBRID         0.521     0.702     0.000     0.874
+ SUM            1.233     1.658     0.000     2.066
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM               X         Y         Z
+
+     1         O                  0.0000    0.0000    0.0000
+     2         H                  0.9434    0.0000    0.0000
+     3         H                 -0.2725    0.9032    0.0000
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+   1.80625   1.27469   1.36031   2.00000   0.77919   0.77956
+
+
+
+ TOTAL CPU TIME:            22.32 SECONDS
+
+ == MOPAC DONE ==

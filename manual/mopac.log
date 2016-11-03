@@ -1,0 +1,215 @@
+This is TeX, C Version 3.14t3 (format=lplain 93.10.4)  16 JUN 1994 11:36
+**mopac
+(mopac.tex
+LaTeX Version 2.09 <7 Dec 1989>
+(/usr/local/lib/tex/inputs/book.sty
+Document Style `book' <24 Nov 89>.
+(/usr/local/lib/tex/inputs/bk10.sty)
+\descriptionmargin=\dimen99
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+) (/usr/local/lib/tex/inputs/psfig.sty
+psfig: version 1.1 (MC-TeX)
+\ps@dim=\dimen100
+\ps@stream=\read0
+) (/usr/local/lib/tex/inputs/fancyheadings.sty
+\headrulewidth=\dimen101
+\footrulewidth=\dimen102
+\plainheadrulewidth=\dimen103
+\plainfootrulewidth=\dimen104
+\headwidth=\dimen105
+)
+(/usr/local/lib/tex/inputs/makeidx.sty)
+\@indexfile=\write3
+
+Writing index file mopac.idx 
+(mopac.aux) [0
+
+] [1] [2
+
+] (mopac.toc [3])
+\tf@toc=\write4
+ [4] [5] [6
+
+]
+Chapter 1.
+[1] [2] [3] [4] [5] [6] [7] [8
+
+]
+Chapter 2.
+[9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23]
+[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+Overfull \hbox (7.63673pt too wide) in paragraph at lines 2331--2335
+[]\tenrm Alternative spec-i-fi-ca-tions of the time are T=nn.nnM, this de-fines
+ the time in min-utes, T=nn.nnH,
+
+\hbox(6.94444+1.94444)x424.58624, glue set - 1.0
+.\hbox(0.0+0.0)x15.0
+.\tenrm A
+.\tenrm l
+.\tenrm t
+.\tenrm e
+.etc.
+
+[35] [36] [37] [38] [39] [40
+
+]
+Chapter 3.
+[41] [42] [43] [44] [45] [46] [47] [48
+
+]
+Chapter 4.
+[49] [50] [51] [52] [53] [54
+
+]
+Chapter 5.
+[55] [56] [57] [58] [59] [60] [61] [62] [63] [64]
+Chapter 6.
+[65
+
+] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79]
+[80] [81] [82] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94]
+[95] [96] [97]
+Overfull \hbox (7.85286pt too wide) in paragraph at lines 6229--6229
+[]\frtnbf Parametric Molec-u-lar Elec-tro-static Po-ten-tial (PMEP) 
+
+\hbox(10.79999+3.59999)x424.58624, glue set - 1.0
+.\hbox(9.27998+0.0)x45.99966
+..\glue 0.0
+..\frtnbf 6
+..\frtnbf .
+..\frtnbf 1
+..\frtnbf 9
+..etc.
+.\frtnbf P
+.\kern-0.46
+.\frtnbf a
+.\frtnbf r
+.etc.
+
+[98]
+psfig: searching ch2o-ford.ps for bounding box
+psfig: including ch2o-ford.ps
+[99] [100] [101] [102]
+Overfull \hbox (44.73387pt too wide) in paragraph at lines 6539--6552
+ [] 
+
+\hbox(57.09999+52.09999)x399.58624
+.\glue(\leftskip) 0.0 plus 1.0fil
+.\hbox(57.09999+52.09999)x444.32011
+..\mathon
+..\vbox(57.09999+52.09999)x444.32011
+...\rule(0.4+0.0)x444.32011
+...\hbox(8.39996+3.60004)x444.32011 []
+...\rule(0.4+0.0)x444.32011
+...\hbox(8.39996+3.60004)x444.32011 []
+...\glue(\lineskip) 0.0
+...etc.
+..\mathoff
+.\penalty 10000
+.\glue(\parfillskip) 0.0
+.\glue(\rightskip) 0.0 plus 1.0fil
+
+[103] [104]
+Chapter 7.
+[105
+
+] [106] [107] [108]
+Chapter 8.
+[109
+
+] [110] [111] [112] [113] [114] [115] [116
+
+]
+Chapter 9.
+[117] [118] [119] [120
+
+]
+Chapter 10.
+[121] [122] [123] [124
+
+]
+Chapter 11.
+[125] [126] [127] [128] [129] [130]
+Appendix A.
+[131
+
+] [132
+
+]
+Appendix B.
+[133] [134] [135] [136] [137] [138] [139] [140]
+Appendix C.
+[141
+
+] [142]
+Overfull \hbox (1.7097pt too wide) in paragraph at lines 8536--8539
+[] []\tenrm DHCORE Util-ity: Part of the an-a-lyt-i-cal C.I. deriva-tive pack-a
+ge. Called by DERI1, DHCORE
+
+\hbox(6.94444+1.94444)x399.58624, glue set - 1.0
+.\hbox(0.0+0.0)x0.0
+.\glue 0.0
+.\hbox(4.44444+0.0)x0.0
+..\glue 0.0
+..\glue -20.0
+..\glue -5.0
+..\hbox(4.44444+0.0)x20.0, glue set 20.0fil
+...\glue 0.0 plus 1.0fil minus 1.0fil
+...\hbox(4.44444+0.0)x0.0, glue set - 5.00002fil []
+..\glue 5.0
+.\penalty 0
+.\tenrm D
+.etc.
+
+
+Overfull \hbox (4.76062pt too wide) in paragraph at lines 8540--8545
+\tenrm diagonalize a sec-u-lar de-ter-mi-nant, DIAG mod-i-fies the vec-tors so 
+that the block-diagonalization
+
+\hbox(6.94444+1.94444)x399.58624, glue set - 1.0
+.\tenrm d
+.\tenrm i
+.\tenrm a
+.\tenrm g
+.\tenrm o
+.etc.
+
+[143] [144] [145] [146] [147] [148] [149] [150]
+Appendix D.
+[151
+
+] [152]
+Appendix E.
+[153
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 9173--9176
+
+
+\hbox(0.0+0.0)x399.58624
+.\glue(\rightskip) 0.0
+
+[154] [155] [156] (mopac.bbl [157] [158
+
+] [159]) (mopac.ind [160] [161
+
+] [162]
+[163]) (mopac.aux) ) 
+Here is how much of TeX's memory you used:
+ 447 strings out of 4463
+ 3850 string characters out of 63241
+ 53047 words of memory out of 262141
+ 2364 multiletter control sequences out of 9500
+ 19612 words of font info for 74 fonts, out of 72000 for 255
+ 17 hyphenation exceptions out of 607
+ 19i,11n,20p,273b,325s stack positions out of 300i,40n,60p,3000b,4000s
+
+Output written on mopac.dvi (170 pages, 547632 bytes).

@@ -1,0 +1,6 @@
+This is makeindex, portable version 2.4 [20-Mar-88].
+Scanning input file mopac.idx....done (224 entries accepted, 0 rejected).
+Sorting entries.....done (1858 comparisons).
+Generating output file mopac.ind....done (334 lines written, 0 warnings).
+Output written in mopac.ind.
+Transcript written in mopac.ilg.

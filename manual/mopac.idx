@@ -1,0 +1,224 @@
+\indexentry{klamt@{\bf Klamt, Andreas}}{v}
+\indexentry{Danilof@{\bf Danilof, V. I.}}{v}
+\indexentry{Kurtz@{\bf Kurtz, Henry, A.}}{v}
+\indexentry{Korambath@{\bf Korambath, Prakashan}}{v}
+\indexentry{LaTeX}{v}
+\indexentry{molecular orbitals}{1}
+\indexentry{force constants}{1}
+\indexentry{radicals}{1}
+\indexentry{ions}{1}
+\indexentry{polymers}{1}
+\indexentry{transition state}{1}
+\indexentry{CDC}{1}
+\indexentry{Data General}{1}
+\indexentry{Gould}{1}
+\indexentry{DEC}{1}
+\indexentry{CRAY--XMP}{1}
+\indexentry{supercomputers}{1}
+\indexentry{IBM PC-AT}{1}
+\indexentry{Localized orbitals}{2}
+\indexentry{MOPAC!copyright}{2}
+\indexentry{QCPE address}{2}
+\indexentry{MOPAC!cost}{2}
+\indexentry{VAX}{2}
+\indexentry{Dewar research group}{3}
+\indexentry{MOPAC!development}{3}
+\indexentry{VAX}{4}
+\indexentry{HELP}{4}
+\indexentry{DRAW program}{4}
+\indexentry{Program!DENSITY}{4}
+\indexentry{DENSITY}{4}
+\indexentry{MOHELP}{4}
+\indexentry{Program!MOHELP}{4}
+\indexentry{Program!MOSOL}{4}
+\indexentry{MOSOL}{4}
+\indexentry{data!for ethene}{5}
+\indexentry{keywords!specification}{6}
+\indexentry{data!layout}{6}
+\indexentry{data!for polytetrahydrofuran}{6}
+\indexentry{polymers!data for}{6}
+\indexentry{\&}{12}
+\indexentry{+}{13}
+\indexentry{0SCF}{13}
+\indexentry{1ELECTRON}{13}
+\indexentry{1SCF}{13}
+\indexentry{AIDER}{13}
+\indexentry{AIGIN}{14}
+\indexentry{AIGOUT}{14}
+\indexentry{ANALYT}{14}
+\indexentry{AM1}{14}
+\indexentry{BAR}{14}
+\indexentry{BIRADICAL}{14}
+\indexentry{BONDS}{15}
+\indexentry{C.I.}{15}
+\indexentry{CHARGE}{16}
+\indexentry{DCART}{17}
+\indexentry{DEBUG}{17}
+\indexentry{DENOUT}{17}
+\indexentry{DENSITY (0)}{17}
+\indexentry{POLAR}{28}
+\indexentry{symmetry functions!defined}{35}
+\indexentry{data!tabs in}{41}
+\indexentry{data!commas in}{41}
+\indexentry{internal coordinate definition}{41}
+\indexentry{coordinates!internal to Cartesian}{42}
+\indexentry{coordinates!Cartesian}{42}
+\indexentry{Gaussian coordinates}{42}
+\indexentry{geometry!flags for}{43}
+\indexentry{isotopes!specification of}{44}
+\indexentry{elements!specification of}{44}
+\indexentry{MNDO!elements in}{44}
+\indexentry{AM1!elements in}{44}
+\indexentry{sparkles}{45}
+\indexentry{capped bonds}{45}
+\indexentry{grid map}{46}
+\indexentry{reaction coordinate!specification}{46}
+\indexentry{coordinates!examples}{46}
+\indexentry{data!for polythene}{47}
+\indexentry{data!MNRSD1!input}{49}
+\indexentry{data!MNRSD1!output}{50}
+\indexentry{version number!of MOPAC}{52}
+\indexentry{MOPAC!version number}{52}
+\indexentry{data!TESTDATA!input}{55}
+\indexentry{THERMO!example of}{55}
+\indexentry{data!TESTDATA!output}{56}
+\indexentry{force constants}{61}
+\indexentry{zero point energy}{61}
+\indexentry{mass-weighted coordinates}{62}
+\indexentry{normal coordinate analysis}{62}
+\indexentry{vibrational analysis}{62}
+\indexentry{PATH calculation}{63}
+\indexentry{coordinates!Gaussian!example}{66}
+\indexentry{CONH linkage}{67}
+\indexentry{analytical derivatives}{68}
+\indexentry{boyd@{\bf Boyd, Donald B.}}{69}
+\indexentry{dihedral angle coherency}{71}
+\indexentry{klyne@{\bf Klyne and Prelog}}{71}
+\indexentry{hirano@{\bf Hirano, Tsuneo}}{71}
+\indexentry{Boltzmann constant}{71}
+\indexentry{constants!physical}{71}
+\indexentry{definitions!Boltzmann constant}{71}
+\indexentry{definitions!velocity of light}{71}
+\indexentry{gas constant, R}{71}
+\indexentry{Ab initio total energies}{72}
+\indexentry{partition function}{72}
+\indexentry{energy}{72}
+\indexentry{entropy}{72}
+\indexentry{heat capacity}{72}
+\indexentry{Gibbs free energy}{74}
+\indexentry{heat of formation}{74}
+\indexentry{coordinates!reaction}{76}
+\indexentry{gordon@{\bf Gordon, Mark}}{76}
+\indexentry{DRC!background}{76}
+\indexentry{DRC!definition}{76}
+\indexentry{liquids}{77}
+\indexentry{kinetic energy!damping}{77}
+\indexentry{DRC!conservation of momentum}{77}
+\indexentry{IRC!definition}{78}
+\indexentry{DRC!dummy atoms in}{79}
+\indexentry{IRC!keywords for}{79}
+\indexentry{IRC!example of}{80}
+\indexentry{IRC!example of restart}{80}
+\indexentry{DRC!keyword options}{81}
+\indexentry{KINETIC}{81}
+\indexentry{reduced mass}{82}
+\indexentry{force constant}{82}
+\indexentry{H--PRIORITY}{85}
+\indexentry{frame!description of}{86}
+\indexentry{MECI!description of}{87}
+\indexentry{Jensen@{\bf Jensen, Frank}}{94}
+\indexentry{Taylor expansion}{94}
+\indexentry{Hessian}{94}
+\indexentry{Eigenvector!following}{94}
+\indexentry{OMIN}{94}
+\indexentry{NONR}{94}
+\indexentry{RSCAL}{94}
+\indexentry{RMIN}{95}
+\indexentry{RMAX}{95}
+\indexentry{CYCLE}{95}
+\indexentry{MODE}{95}
+\indexentry{Franck-Condon}{96}
+\indexentry{Photoexcitation energy}{96}
+\indexentry{Fluorescence}{97}
+\indexentry{Red-shift}{97}
+\indexentry{Photoemission}{97}
+\indexentry{Phosphorescence}{97}
+\indexentry{Excimers}{97}
+\indexentry{PMEP}{99}
+\indexentry{Ford@{\bf Ford, George}}{99}
+\indexentry{Wang@{\bf Wang, Bingze}}{99}
+\indexentry{Electrostatic Potential!PMEP model}{99}
+\indexentry{COSMO}{100}
+\indexentry{MST Solvation Model}{101}
+\indexentry{Orozco@{\bf Orozco, Modesto}}{101}
+\indexentry{Luque@{\bf Luque, F. J.}}{101}
+\indexentry{Solvation Model!MST}{101}
+\indexentry{MST solvation model}{101}
+\indexentry{Solvation model!MST model}{101}
+\indexentry{Pierotti's scaled particle theory}{101}
+\indexentry{Van der Waals!in MST theory}{101}
+\indexentry{Electrostatic potential!Orozco-Luque model}{101}
+\indexentry{MEP}{101}
+\indexentry{Self Consistent Reaction Field method}{101}
+\indexentry{SCRF Method}{101}
+\indexentry{{\bf TOM}}{102}
+\indexentry{Born--von Karman}{104}
+\indexentry{cluster model}{104}
+\indexentry{MOPAC! geometric structure}{105}
+\indexentry{MOPAC!electronic structure}{106}
+\indexentry{MOPAC!programming policy}{106}
+\indexentry{GMETRY! description}{107}
+\indexentry{MOPAC!error messages}{109}
+\indexentry{error messages}{109}
+\indexentry{messages}{109}
+\indexentry{MOPAC!criteria}{117}
+\indexentry{SCFCRT}{117}
+\indexentry{TOLERX}{117}
+\indexentry{DELHOF}{117}
+\indexentry{TOLERG}{117}
+\indexentry{TOLERX}{117}
+\indexentry{TOL2}{117}
+\indexentry{TOLS1}{117}
+\indexentry{heat of formation!criteria}{117}
+\indexentry{keywords!debugging}{121}
+\indexentry{bugs!locating}{122}
+\indexentry{MOPAC!installing}{125}
+\indexentry{command file!COMPILE}{125}
+\indexentry{command file!MOPAC}{127}
+\indexentry{command file!RMOPAC}{127}
+\indexentry{petts@{\bf Petts, Dr. J.}}{127}
+\indexentry{ESP!installing}{128}
+\indexentry{SHUTDOWN}{128}
+\indexentry{UNIX!on-line help}{128}
+\indexentry{MOPAC!using}{129}
+\indexentry{MOPAC!size of}{130}
+\indexentry{subroutines!full list of}{131}
+\indexentry{subroutines!calls in MOPAC}{133}
+\indexentry{subroutines!description of}{141}
+\indexentry{heat of formation!molecular standards}{151}
+\indexentry{references!on G--DIIS}{153}
+\indexentry{references!CI derivatives}{153}
+\indexentry{references!eigenvector following}{153}
+\indexentry{references!ESP}{153}
+\indexentry{references!MNDO}{153}
+\indexentry{references!MINDO/3}{154}
+\indexentry{AM1!references}{154}
+\indexentry{references!AM1}{154}
+\indexentry{references!PM3}{154}
+\indexentry{references!SHIFT}{155}
+\indexentry{references!half-electron}{155}
+\indexentry{references!Pulay's converger}{155}
+\indexentry{references!pseudo-diagonalization}{155}
+\indexentry{references!localization}{155}
+\indexentry{references!diagonalization}{156}
+\indexentry{references!MECI}{156}
+\indexentry{references!BFGS method}{156}
+\indexentry{references!polarizability}{156}
+\indexentry{references!thermodynamics}{156}
+\indexentry{references!SIGMA method}{156}
+\indexentry{references!MO valency}{156}
+\indexentry{references!bonds}{156}
+\indexentry{references!transition state location}{156}
+\indexentry{dipole moments!of ions}{156}
+\indexentry{references!dipole moments of ions}{156}
+\indexentry{references!polymers}{157}

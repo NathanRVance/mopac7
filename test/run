@@ -1,0 +1,2 @@
+#! /bin/sh
+../runmopac test <test.dat

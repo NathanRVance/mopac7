@@ -1,0 +1,166 @@
+\begin{thebibliography}{10}
+
+\bibitem{gf1}
+L.S. Cederbaum and W.~Domcke.
+\newblock {\em Adv. Chem. Phys.}, 36:206, 1977.
+
+\bibitem{gf2}
+W.~von Niessen, J.~Schirmer, and L.S. Cederbaum.
+\newblock {Computational Methods for the One-Particle Green's Function}.
+\newblock {\em Comput. Phys. Rep.}, 1:57, 1984.
+
+\bibitem{gf6}
+D.~Danovich and Y.~Apeloig.
+\newblock {Ionization Energies of Triazines and Tetrazines. Application of
+  Green's Function Method Coupling with Semiempirical Molecular Orbital
+  Calculations}.
+\newblock {\em J. Chem. Soc. Perkin Trans. 2}, N. 12:1865, 1991.
+
+\bibitem{pmep1}
+G.~P. Ford and B.~Wang.
+\newblock {New Approach to the Rapid Semiempirical Calculation of Molecular
+  Electrostatic Potentials Based on the AM1 Wave Function: Comparison with {\em
+  Ab Initio} HP/6-31G* Results}.
+\newblock {\em J. Comp. Chem.}, 14:1101--1111, 1993.
+
+\bibitem{pmep2}
+B.~Wang and G.~Ford.
+\newblock {Atomic Charges Derived from a Fast and Accurate Method for
+  Electrostatic Potential based on Modified AM1 Calculations}.
+\newblock {\em J. Comp. Chem.}, 15:200--207, 1994.
+
+\bibitem{scrf}
+H.~S. Rzepa, M.~M. Yi, M.~M. Karelson, and M.~C. Zerner.
+\newblock {\em J. Chem. Soc. Perkin Trans.}, 2:635, 1991.
+
+\bibitem{mst}
+S.~Miertus, E.~Scrocco, and J.~Tomasi.
+\newblock {Electrostatic Interaction of a Solute with a Continuum. A Direct
+  Utilization of {\em ab initio} Molecular Potentials for the Prevision of
+  Solvent Effects}.
+\newblock {\em Chem. Phys.}, 55:117, 1981.
+
+\bibitem{mt}
+S.~Miertus and J.~Tomasi.
+\newblock {Approximate Evaluations of the Electrostatic Free Energy and
+  Internal Energy Changes in Solution Processes}.
+\newblock {\em Chem. Phys.}, 65:239, 1982.
+
+\bibitem{lno}
+F.~J. Luque, M.~J. Negre, and M.~Orozco.
+\newblock {An AM1-SCRF Approach to the Study of Changes in Molecular Properties
+  Induced by Solvent}.
+\newblock {\em J. Phys. Chem.}, 97:4386--4391, 1993.
+
+\bibitem{glo}
+J.~Gao, F.~J. Luque, and M.~Orozco.
+\newblock {Induced Dipole Moment and Atomic Charges based on Average
+  Electrostatic Potentials in Aqueous Solution}.
+\newblock {\em J. Chem. Phys.}, 94:2975--2982, 1993.
+
+\bibitem{nol}
+M.~Negre, M.~Orozco, and F.~J. Luque.
+\newblock {A New Strategy for the Representation of Environment Effects in
+  Semi-Empirical Calculations based on Dewar's Hamiltonians}.
+\newblock {\em Chem. Phys. Lett.}, 196:27, 1992.
+
+\bibitem{lbo}
+F.~J. Luque, M.~Bachs, and M.~Orozco.
+\newblock {An Optimized AM1-MST Method for the SCRF Representation of Solvated
+  Systems}.
+\newblock {\em J. Comp. Chem.}, 15:{xxx--yyy}, 1994.
+
+\bibitem{obl}
+M.~Orozco, M.~Bachs, and F.~J. Luque.
+\newblock {Development of Optimized MST/SCRF Methods for Semiempirical
+  Calculations. The MNDO and PM3 Hamiltonians}.
+\newblock {\em J. Comp. Chem.}, 1994.
+\newblock submitted.
+
+\bibitem{pastb}
+J.~L. Pascual-Ahuir, E.~Silla, J.~Tomasi, and R.~Bonaccorsi.
+\newblock {Electrostatic Interactions of a Solute with a Continuum. Improved
+  Description of the Cavity and of the Surface Cavity Bound Charge
+  Distribution}.
+\newblock {\em J. Comp. Chem.}, 8:778, 1987.
+
+\bibitem{ojl}
+M.~Orozco, W.~L. Jorgensen, and F.~J. Luque.
+\newblock {Comparison of 6-31G* based MST/SCRF and FEP Evaluations of the Free
+  Energies of Hydration of Small Neutral Molecules}.
+\newblock {\em J. Comp. Chem.}, 14:1498, 1993.
+
+\bibitem{blo}
+M.~Bachs, F.~J. Luque, and M.~Orozco.
+\newblock {Optimization of Solute Cavities and van der Waals parameters in {\em
+  ab initio} MST-SCRF Calculations of Neutral Molecules}.
+\newblock {\em J. Comp. Chem.}, 14:446--454, 1994.
+
+\bibitem{rap}
+R.~A. Pierotti.
+\newblock {A Scaled Particle Theory of Aqueous and Nonaqueous Solutions}.
+\newblock {\em Chem. Rev.}, 76:717, 1976.
+
+\bibitem{lobg}
+F.~J. Luque, M.~Orozco, P.~K. Bhadane, and S.~R. Gadre.
+\newblock {SCRF Calculation of the Effect of Hydration on the Topology of the
+  Molecular Electrostatic Potential}.
+\newblock {\em J. Chem. Phys}, 97:9380, 1993.
+
+\bibitem{lo}
+F.~J. Luque and M.~Orozco.
+\newblock {Theoretical Study of $N$-methylacetamide in Vacuum and Aqueous
+  Solution: Implications for the Peptide Bond Isomeration}.
+\newblock {\em J. Org. Chem.}, 58:6397, 1993.
+
+\bibitem{lo2}
+F.~J. Luque and M.~Orozco.
+\newblock {Reactivity of Planar and Twisted Amides in Vacuum and Aqueous
+  Environments: an {\em ab initio} Study}.
+\newblock {\em J. Chem. Soc. P. T. II}, pages 683--690, 1993.
+
+\bibitem{lobg2}
+F.~J. Luque, M.~Orozco, P.~K. Bhadane, and S.~R. Gadre.
+\newblock {Effect of Solvation on the Shapes, Sizes and Anisotropies of
+  Polyatomic Anions {\em via} MESP topology: an {\em ab initio} approach}.
+\newblock {\em J. Chem. Phys}, 1994.
+\newblock in press.
+
+\bibitem{lio}
+F.~J. Luque, F.~Illas, and M.~Orozco.
+\newblock {Comparative Study of the Molecular Electrostatic Potential Obtained
+  from Different Wavefunctions. Reliability of the Semiempirical MNDO
+  Wavefunction}.
+\newblock {\em J. Comp. Chem.}, 11:909, 1990.
+
+\bibitem{alo}
+C.~Alem\'{a}n, F.~J. Luque, and M.~Orozco.
+\newblock {Suitability of the PM3-Derived Molecular Electrostatic Potentials}.
+\newblock {\em J. Comp. Chem.}, 14:799--808, 1993.
+
+\bibitem{lo3}
+F.~J. Luque and M.~Orozco.
+\newblock {Reliability of the AM1 Wavefunction to Compute Molecular
+  Electrostatic Potentials}.
+\newblock {\em Chem. Phys. Lett.}, 168:269, 1990.
+
+\bibitem{frr}
+G.~G. Ferenczy, C.~A. Reynolds, and W.~G. Richards.
+\newblock {Semiempirical AM1 Electrostatic Potentials and AM1 Electrostatic
+  Potential Derived Charges: a Comparison with {\em ab initio} Values}.
+\newblock {\em J. Comp. Chem.}, 11:159, 1990.
+
+\bibitem{alo2}
+C.~Alhambra, F.~J. Luque, and M.~Orozco.
+\newblock {Comparison of NDDO and Quasi-{\em ab initio} Approaches to Compute
+  Semiempirical Molecular Electrostatic Potentials}.
+\newblock {\em J. Comp. Chem.}, 15:12, 1994.
+
+\bibitem{ol}
+M.~Orozco and F.~J. Luque.
+\newblock {Optimization of the Cavity Size for {\em ab initio} MST-SCRF
+  Calculations of Monovalent Ions}.
+\newblock {\em Chem. Phys.}, 1994.
+\newblock in press.
+
+\end{thebibliography}

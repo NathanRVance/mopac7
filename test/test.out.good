@@ -1,0 +1,192 @@
+ *******************************************************************************
+ **                      MOPAC (PUBLIC DOMAIN)                                **
+ *******************************************************************************
+
+                                 AM1 CALCULATION RESULTS
+
+
+ *******************************************************************************
+ *          MOPAC:  VERSION  7.00               CALC'D. Tue Jan 25 16:38:03 1994
+ *  P1994    - THE ALTERNATE SET OF AM1 PHOSPHORUS PARAMETERS TO BE USED
+ *  GRADIENTS- ALL GRADIENTS TO BE PRINTED
+ *  SYMMETRY - SYMMETRY CONDITIONS TO BE IMPOSED
+ *   T=      - A TIME OF  3600.0 SECONDS REQUESTED
+ *  DUMP=N   - RESTART FILE WRITTEN EVERY  3600.0 SECONDS
+ *  EF       - USE EF ROUTINE FOR MINIMUM SEARCH
+ *  AM1      - THE AM1 HAMILTONIAN TO BE USED
+ *  PRECISE  - CRITERIA TO BE INCREASED BY 100 TIMES
+ ***********************************************************************030BY030
+
+
+
+     PARAMETER DEPENDENCE DATA
+
+        REFERENCE ATOM      FUNCTION NO.    DEPENDENT ATOM(S)
+            2                  1             3
+            2                  1             4
+            3                  2             4
+
+             DESCRIPTIONS OF THE FUNCTIONS USED
+
+   1      BOND LENGTH    IS SET EQUAL TO THE REFERENCE BOND LENGTH   
+   2      BOND ANGLE     IS SET EQUAL TO THE REFERENCE BOND ANGLE    
+   PRECISE EF P1994         AM1 SYMMETRY  GRADIENTS
+ Phosphine                                HERR=  -1.08  DERR= 0.60  CERR=-1.31
+ 
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      H       
+      2      P         1.32395  *                                  1
+      3      H         1.32395         97.13449  *                 2    1
+      4      H         1.32395         97.13449      98.05031  *   2    1    3
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM         X         Y         Z
+
+     1         H        0.0000    0.0000    0.0000
+     2         P        1.3239    0.0000    0.0000
+     3         H        1.4884    1.3137    0.0000
+     4         H        1.4884   -0.1840    1.3008
+
+
+     MOLECULAR POINT GROUP   :   C3V 
+  H: (AM1): M.J.S. DEWAR ET AL, J. AM. CHEM. SOC. 107 3902-3909 (1985)          
+  P: (AM1): J. J. P. STEWART                                                    
+
+
+          RHF CALCULATION, NO. OF DOUBLY OCCUPIED LEVELS =  4
+
+
+            INTERATOMIC DISTANCES
+0
+                  H  1       P  2       H  3       H  4
+ ------------------------------------------------------
+     H    1   0.000000
+     P    2   1.323947   0.000000
+     H    3   1.985213   1.323947   0.000000
+     H    4   1.985213   1.323947   1.983675   0.000000
+
+          DIAGONAL MATRIX USED AS START HESSIAN
+
+ CYCLE:   1 TIME:   0.12 TIME LEFT:   3599.9 GRAD.:     8.397 HEAT: 5.875143    
+ CYCLE:   2 TIME:   0.05 TIME LEFT:   3599.8 GRAD.:     5.563 HEAT: 5.744362    
+ CYCLE:   3 TIME:   0.05 TIME LEFT:   3599.8 GRAD.:     4.587 HEAT: 5.583201    
+ CYCLE:   4 TIME:   0.05 TIME LEFT:   3599.7 GRAD.:     1.522 HEAT: 5.551560    
+ CYCLE:   5 TIME:   0.05 TIME LEFT:   3599.7 GRAD.:     0.141 HEAT: 5.549607    
+ CYCLE:   6 TIME:   0.03 TIME LEFT:   3599.7 GRAD.:     0.013 HEAT: 5.549596    
+
+     RMS GRADIENT =  0.01309  IS LESS THAN CUTOFF =  0.05000
+
+
+
+ -------------------------------------------------------------------------------
+   PRECISE EF P1994         AM1 SYMMETRY  GRADIENTS
+ Phosphine                                HERR=  -1.08  DERR= 0.60  CERR=-1.31
+ 
+
+
+     GEOMETRY OPTIMISED USING EIGENVECTOR FOLLOWING (EF).     
+     SCF FIELD WAS ACHIEVED                                   
+
+
+                                AM1    CALCULATION
+                                                       VERSION  7.00
+                                                       Tue Jan 25 16:38:04 1994
+
+
+
+
+          FINAL HEAT OF FORMATION =          5.54960 KCAL
+
+
+          TOTAL ENERGY            =       -156.44042 EV
+          ELECTRONIC ENERGY       =       -292.39342 EV
+          CORE-CORE REPULSION     =        135.95300 EV
+
+          GRADIENT NORM           =          0.01309
+          IONIZATION POTENTIAL    =          7.75699
+          NO. OF FILLED LEVELS    =          4
+          MOLECULAR WEIGHT        =     33.997
+
+
+          SCF CALCULATIONS  =                7
+          COMPUTATION TIME =   0.400 SECONDS
+
+
+
+       FINAL  POINT  AND  DERIVATIVES
+
+   PARAMETER     ATOM    TYPE            VALUE       GRADIENT
+      1          2  P    BOND            1.319722     0.011311  KCAL/ANGSTROM
+      2          3  H    ANGLE         100.644892    -0.002844  KCAL/RADIAN  
+      3          4  H    DIHEDRAL      103.100112     0.005949  KCAL/RADIAN  
+
+
+
+
+
+    ATOM   CHEMICAL  BOND LENGTH    BOND ANGLE     TWIST ANGLE
+   NUMBER  SYMBOL    (ANGSTROMS)     (DEGREES)      (DEGREES)
+    (I)                  NA:I          NB:NA:I      NC:NB:NA:I     NA   NB   NC
+
+      1      H       
+      2      P         1.31972  *                                  1
+      3      H         1.31972        100.64489  *                 2    1
+      4      H         1.31972        100.64489     103.10011  *   2    1    3
+
+
+            INTERATOMIC DISTANCES
+0
+                  H  1       P  2       H  3       H  4
+ ------------------------------------------------------
+     H    1   0.000000
+     P    2   1.319722   0.000000
+     H    3   2.031448   1.319722   0.000000
+     H    4   2.031448   1.319722   2.031513   0.000000
+
+
+      MOLECULAR POINT GROUP   :   C3V 
+
+
+                  EIGENVALUES
+
+ -22.50077 -12.71145 -12.71123  -7.75699   0.86252   1.82133   1.82146
+
+
+              NET ATOMIC CHARGES AND DIPOLE CONTRIBUTIONS
+
+         ATOM NO.   TYPE          CHARGE        ATOM  ELECTRON DENSITY
+           1          H          -0.0620          1.0620
+           2          P           0.1859          4.8141
+           3          H          -0.0620          1.0620
+           4          H          -0.0620          1.0620
+ DIPOLE           X         Y         Z       TOTAL
+ POINT-CHG.     0.248    -0.299    -0.376     0.540
+ HYBRID        -0.964     1.162     1.463     2.102
+ SUM           -0.716     0.863     1.087     1.562
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM               X         Y         Z
+
+     1         H                  0.0000    0.0000    0.0000
+     2         P                  1.3197    0.0000    0.0000
+     3         H                  1.5635    1.2970    0.0000
+     4         H                  1.5635   -0.2940    1.2633
+
+
+          ATOMIC ORBITAL ELECTRON POPULATIONS
+
+   1.06197   1.67969   0.97572   1.02914   1.12955   1.06197   1.06197
+
+
+
+ TOTAL CPU TIME:             0.45 SECONDS
+
+ == MOPAC DONE ==
