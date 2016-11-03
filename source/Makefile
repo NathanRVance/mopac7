@@ -4,19 +4,36 @@
 #
 #    Valid Commands of this makefile
 #
-#	make gfortran	Makes mopac.exe with gfortran
-#	make f2c	Makes mopac.exe with f2c
-#	make g77	Makes mopac.exe with g77
+#	make dynamic	Makes mopac.exe with gfortran
+#	make static	Makes mopac.exe statically linked
 #	make clean	Clean up source directory
 #
 EXE		= ../mopac.exe
-
+BUILD		= gfortran
+COMPFLAGS	= -c -ffixed-line-length-0 -fno-automatic -frecord-marker=4 -w
+LINKFLAGS	= -o $(EXE)
 mopac.exe:
 		@echo "Usage: make <compiler>"
 
 gfortran:
 		gfortran -c -ffixed-line-length-0 -fno-automatic -frecord-marker=4 -w *.f
-		gfortran -static -o $(EXE) *.o
+		gfortran $(FFLAGS) -o $(EXE) *.o
+
+dynamic:
+		$(BUILD) $(COMPFLAGS) *.f
+		$(BUILD) $(LINKFLAGS) *.o
+
+static:
+		$(BUILD) $(COMPFLAGS) *.f
+		$(BUILD) $(LINKFLAGS) -static *.o
+
+clean:
+		@mv fdate.c fdate.temp
+		rm -f *.o
+		rm -f *.c
+		@mv fdate.temp fdate.c
+
+# Unsupported targets
 
 f2c:
 		f2c -w *.f 
@@ -29,9 +46,3 @@ g77:
 
 f77:
 		f77 -w -O -static *.f -o $(EXE) 
-
-clean:
-		@mv fdate.c fdate.temp
-		rm -f *.o
-		rm -f *.c
-		@mv fdate.temp fdate.c

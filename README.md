@@ -6,8 +6,19 @@ Cleaned-up mopac7 code
 ```
 yum install gcc-gfortran libgfortran-static glibc-static
 ```
-* Common:
+* Dynamically linked:
 ```
 cd mopac7/source/
-make gfortran
+make dynamic
+```
+
+* Statically linked:
+  * CentOS:
+```
+yum install libgfortran-static glibc-static
+```
+  * Common:
+```
+cd mopac7/source/
+make static
 ```
