@@ -1,20 +1,23 @@
-#!/bin/csh
-set job = $1
-foreach file (out log brz gpt esp ump arc syb end)
-    if -e $job.$file mv $job.$file $job.$file.$$
-  end
-if !(-e $job.log) mkfile -n 1 $job.log
-setenv FOR005 $job.dat
-setenv FOR006 $job.out
-setenv FOR009 $job.res
-setenv FOR010 $job.den
-setenv FOR011 $job.log
-setenv FOR012 $job.arc
-setenv FOR013 $job.gpt
-setenv FOR016 $job.syb
-setenv FOR020 $job.ump
-setenv SETUP  SETUP.DAT
-setenv SHUTDOWN $job.end
-time /usr/local/mopac7/mopac.exe $job <$job.dat 
-vi $job.out
-if -e core rm core
+#!/bin/sh
+job=$1
+working_dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+for file in "out log brz gpt esp ump arc syb end"; do
+    if [ -e "$job.$file" ]; then mv "$job.$file" "$job.$file.$$"; fi
+done
+if [ ! -e $job.log ]; then
+    touch $job.log
+fi
+export FOR005=$job.dat
+export FOR006=$job.out
+export FOR009=$job.res
+export FOR010=$job.den
+export FOR011=$job.log
+export FOR012=$job.arc
+export FOR013=$job.gpt
+export FOR016=$job.syb
+export FOR020=$job.ump
+export SETUP=SETUP.DAT
+export SHUTDOWN=$job.end
+time $working_dir/mopac.exe $job <$job.dat
+cat $job.out
+if [ -e core ]; then rm core; fi

@@ -15,10 +15,6 @@ LINKFLAGS	= -o $(EXE)
 mopac.exe:
 		@echo "Usage: make <compiler>"
 
-gfortran:
-		gfortran -c -ffixed-line-length-0 -fno-automatic -frecord-marker=4 -w *.f
-		gfortran $(FFLAGS) -o $(EXE) *.o
-
 dynamic:
 		$(BUILD) $(COMPFLAGS) *.f
 		$(BUILD) $(LINKFLAGS) *.o
@@ -34,6 +30,10 @@ clean:
 		@mv fdate.temp fdate.c
 
 # Unsupported targets
+
+gfortran:
+		gfortran -c -ffixed-line-length-0 -fno-automatic -frecord-marker=4 -w *.f
+		gfortran -o $(EXE) *.o
 
 f2c:
 		f2c -w *.f 

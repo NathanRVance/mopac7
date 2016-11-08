@@ -4,7 +4,7 @@ Cleaned-up mopac7 code
 ## Compilation Instructions:
 * Dynamically linked:
   ```
-  cd mopac7/source/
+  cd source/
   make dynamic
   ```
 
@@ -15,6 +15,14 @@ Cleaned-up mopac7 code
   ```
   * Common:
   ```
-  cd mopac7/source/
+  cd source/
   make static
   ```
+
+## Testing:
+```
+cd test/
+./run
+diff test.out test.out.good
+```
+Only differences should be dates and run times
